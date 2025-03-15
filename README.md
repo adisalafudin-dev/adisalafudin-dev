@@ -1,1 +1,1 @@
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dxso20he52f5d4ti73duavf95&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dxso20he52f5d4ti73duavf95&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]]
+![Spotify Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dxso20he52f5d4ti73duavf95&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
