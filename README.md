@@ -1,3 +1,4 @@
+<h2>Hi, Here Are My Stats</h2>
  <!--START_SECTION:waka-->
 
 ```txt
