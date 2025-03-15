@@ -11,6 +11,6 @@ PHP          1 hr 21 mins    ██▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <div align="center">
     <a href="https://open.spotify.com/user/dxso20he52f5d4ti73duavf95">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dxso20he52f5d4ti73duavf95&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing">
+        <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dxso20he52f5d4ti73duavf95&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing">
     </a>
 </div>
