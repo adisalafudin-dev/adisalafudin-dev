@@ -1,4 +1,4 @@
-<div>
+<div sytle="display: flex;">
     <!-- WakaTime Stats -->
     <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
