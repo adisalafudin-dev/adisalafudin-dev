@@ -1,4 +1,4 @@
-<table border="0">
+<table ">
  <tr>
   <td>
       <h2>Here Are My Stats</h2>
