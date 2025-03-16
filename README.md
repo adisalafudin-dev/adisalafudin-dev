@@ -1,7 +1,7 @@
 <table>
  <tr>
   <td>
-      <h2>Hi, Here Are My Stats</h2>
+      <h2>Here Are My Stats</h2>
  <!--START_SECTION:waka-->
 
 ```txt
