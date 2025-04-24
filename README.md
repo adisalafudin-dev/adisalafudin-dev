@@ -5,15 +5,15 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 April 2025
+From: 16 September 2023 - To: 24 April 2025
 
-Total Time: 843 hrs 24 mins
+Total Time: 846 hrs 43 mins
 
-PHP                                392 hrs 14 mins ███████████▒░░░░░░░░░░░░░   45.93 %
-JavaScript                         148 hrs 56 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
-C++                                96 hrs 19 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-HTML                               44 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Blade Template                     32 hrs 24 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+PHP                                393 hrs 26 mins ███████████▒░░░░░░░░░░░░░   45.89 %
+JavaScript                         149 hrs 32 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+C++                                97 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+HTML                               44 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Blade Template                     32 hrs 24 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
