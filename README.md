@@ -1,6 +1,13 @@
 <table border="0">
  <tr>
   <td>
+   Hi, I’m Adi! I’m a Web Developer Student with a passion for building cool and functional web apps. My top skills include React and Laravel, and I’m also comfortable working with technologies like Node.js, MySQL, and TailwindCSS.
+
+One of my proudest projects is a full-featured Point of Sale (POS) app built with Laravel—check out more of my work on my portfolio.
+
+When I’m not coding, you’ll probably find me listening to music, snapping some photos, or getting lost in a good game.
+Let’s connect!
+LinkedIn | Instagram | Portfolio
       <h2>Here Are My Stats</h2>
  <!--START_SECTION:waka-->
 
