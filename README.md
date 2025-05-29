@@ -2,8 +2,6 @@
  <h1>About Me</h1>
  <p> Hi, I’m Adi! I’m a Web Developer Student with a passion for building cool and functional web apps. My top skills include React and Laravel, and I’m also comfortable working with technologies like PHP, MySQL, and TailwindCSS.
 
-When I’m not coding, you’ll probably find me listening to music, snapping some photos, or getting lost in a good game.
-Let’s connect!</p>
 
  <tr>
   <td>
