@@ -11,7 +11,7 @@ LinkedIn | Instagram | Portfolio
  <tr>
   <td>
   
-      <h2>Here Are My Stats</h2>
+      Here Are My Stats
  <!--START_SECTION:waka-->
 
 ```txt
