@@ -10,15 +10,15 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 17 July 2025
+From: 16 September 2023 - To: 18 July 2025
 
-Total Time: 1,001 hrs 54 mins
+Total Time: 1,004 hrs 52 mins
 
-PHP                                415 hrs 22 mins ██████████▒░░░░░░░░░░░░░░   41.02 %
-JavaScript                         175 hrs 36 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-C++                                129 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-C#                                 69 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-HTML                               49 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+PHP                                415 hrs 22 mins ██████████▒░░░░░░░░░░░░░░   40.90 %
+JavaScript                         175 hrs 53 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+C++                                129 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+C#                                 72 hrs 15 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+HTML                               49 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
