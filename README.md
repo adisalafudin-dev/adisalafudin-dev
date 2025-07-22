@@ -1,6 +1,6 @@
 <header>
  <h1>About Me</h1>
- <section style="display:flex;">
+ <section style="display:flex; flex-direction:row;">
  <p style="text-justify: inter-word;"> <b>Hi, I’m Adi!</b> I’m a Web Developer Student with a passion for building cool and functional web apps. My top skills include React and Laravel, and I’m also comfortable working with technologies like PHP, MySQL, and TailwindCSS. </p>
  <div>
   <p>instagram</p>
