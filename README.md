@@ -4,8 +4,12 @@
 I’m a Web Developer Student with a passion for building cool and functional web apps.  
 My top skills include **React** and **Laravel**, and I’m also comfortable working with technologies like **PHP**, **MySQL**, and **TailwindCSS**.
 
-[Personal Website](https://adisalafudin-com.vercel.app/) | [Instagram](https://instagram.com/adi.salafudin) | [YouTube](https://youtube.com/@adisalafudin) | [X](https://x.com/telotraash) |
-|---|---|---|
+### 🔗 Socials
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&style=flat-square)](https://adisalafudin-com.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-@adi.salafudin-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/adi.salafudin)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://youtube.com/@adisalafudin)
+[![X](https://img.shields.io/badge/X-@telotraash-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/telotraash)
 
 <table border="0">
  <tr>
