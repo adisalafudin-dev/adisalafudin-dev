@@ -3,8 +3,7 @@
 **Hi, I’m Adi!**  
 I’m a Web Developer Student with a passion for building cool and functional web apps.  
 My top skills include **React** and **Laravel**, and I’m also comfortable working with technologies like **PHP**, **MySQL**, and **TailwindCSS**.
-
-| [Instagram](https://instagram.com/adi.salafudin) | [YouTube](https://youtube.com/@adisalafudin) | [X](https://x.com/telotraash) |
+[Personal Website](https://adisalafudin-com.vercel.app/) | [Instagram](https://instagram.com/adi.salafudin) | [YouTube](https://youtube.com/@adisalafudin) | [X](https://x.com/telotraash) |
 |---|---|---|
 
 <table border="0">
