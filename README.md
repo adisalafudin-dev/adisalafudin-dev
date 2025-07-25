@@ -20,14 +20,14 @@ Currently Learning On: .NET Core Framework, Arduino.
  <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 24 July 2025
+From: 16 September 2023 - To: 25 July 2025
 
-Total Time: 1,014 hrs 21 mins
+Total Time: 1,015 hrs 7 mins
 
-PHP                                415 hrs 22 mins ██████████░░░░░░░░░░░░░░░   40.52 %
-JavaScript                         177 hrs 27 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-C++                                129 hrs 14 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-C#                                 78 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+PHP                                415 hrs 22 mins ██████████░░░░░░░░░░░░░░░   40.49 %
+JavaScript                         177 hrs 31 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
+C++                                129 hrs 14 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+C#                                 78 hrs 34 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 HTML                               49 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
