@@ -3,7 +3,7 @@
 **Hi, I’m Adi!**  
 I’m a Web Developer Student with a passion for building cool and functional web apps.  
 My top skills include **React** and **Laravel**, and I’m also comfortable working with technologies like **PHP**, **MySQL**, and **TailwindCSS**.
-Currently Learning On: .NET Core Framework, Arduino.
+Currently Learning On: .NET Core, Arduino.
 
 ### 🔗 Socials
 
