@@ -6,7 +6,7 @@ I’m a Web Developer Student with a passion for building cool and functional we
 My top skills include **React** and **Laravel**, and I’m also comfortable working with technologies like **PHP**, **MySQL**, and **TailwindCSS**.
 
 ## 🌱 Currently Learning
-<a href="https://en.wikipedia.org/wiki/Coding">coding</a>
+<a href="https://en.wikipedia.org/wiki/Coding">>mark>coding</mark></a>
 
 ### 🔗 Socials
 
