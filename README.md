@@ -1,12 +1,29 @@
 
 ## 🚀 Hi, I’m Adi! 
 
+
 <table>
- <tr>
-  <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="AdiSalL's GitHub stats" width="600">
-  </td>
- </tr>
+  <tr>
+    <td valign="top" width="55%">
+      <p>
+        I’m a Web Developer Student with a passion for building cool and functional web apps.<br><br>
+        <b>Top Skills:</b>
+        <ul>
+          <li><b>React</b></li>
+          <li><b>Laravel</b></li>
+          <li>PHP</li>
+          <li>MySQL</li>
+          <li>TailwindCSS</li>
+        </ul>
+        <b>🌱 Currently Learning:</b><br>
+        Expanding my knowledge in <a href="https://en.wikipedia.org/wiki/Coding"><b>coding</b></a>,
+        exploring new frameworks, and sharpening my problem-solving skills.
+      </p>
+    </td>
+    <td align="center" valign="middle" width="45%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="AdiSalL's GitHub stats" width="375">
+    </td>
+  </tr>
 </table>
 
 ---
