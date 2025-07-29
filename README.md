@@ -15,9 +15,6 @@
           <li>MySQL</li>
           <li>TailwindCSS</li>
         </ul>
-        <b>🌱 Currently Learning:</b><br>
-        Expanding my knowledge in <a href="https://en.wikipedia.org/wiki/Coding"><b>coding</b></a>,
-        exploring new frameworks, and sharpening my problem-solving skills.
       </p>
     </td>
     <td align="center" valign="middle" width="45%">
