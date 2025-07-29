@@ -16,6 +16,7 @@
       </p>
     </td>
     <td align="center" valign="middle" width="45%">
+      <br>
       <img src="https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="AdiSalL's GitHub stats" width="375">
     </td>
   </tr>
