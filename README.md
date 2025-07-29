@@ -1,9 +1,12 @@
 # About Me
 
-**Hi, I’m Adi!**  
+🚀**Hi, I’m Adi! Developer & Student**
+
 I’m a Web Developer Student with a passion for building cool and functional web apps.  
 My top skills include **React** and **Laravel**, and I’m also comfortable working with technologies like **PHP**, **MySQL**, and **TailwindCSS**.
-Currently Learning On: .NET Core, Arduino.
+
+## 🌱 Currently Learning
+Always exploring new tools and best practices to level up my development skills.
 
 ### 🔗 Socials
 
@@ -11,6 +14,11 @@ Currently Learning On: .NET Core, Arduino.
 [![Instagram](https://img.shields.io/badge/Instagram-@adi.salafudin-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/adi.salafudin)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://youtube.com/@adisalafudin)
 [![X](https://img.shields.io/badge/X-@telotraash-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/telotraash)
+
+
+## 📈 GitHub Stats
+![AdiSalL's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 
 <table border="0">
  <tr>
