@@ -2,10 +2,9 @@
 ## 🚀 Hi, I’m Adi! 
 
 <table>
-
  <tr>
   <td align="center">
-     <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="AdiSalL's GitHub stats" width="600">
   </td>
  </tr>
 </table>
