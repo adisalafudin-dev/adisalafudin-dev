@@ -1,10 +1,19 @@
 # About Me
 
 🚀**Hi, I’m Adi! Developer & Student**
-
-I’m a Web Developer Student with a passion for building cool and functional web apps.  
-My top skills include **React** and **Laravel**, and I’m also comfortable working with technologies like **PHP**, **MySQL**, and **TailwindCSS**.
-
+<table>
+ <tr>
+  <td>
+  I’m a Web Developer Student with a passion for building cool and functional web apps.  
+  My top skills include **React** and **Laravel**, and I’m also comfortable working with technologies like **PHP**, **MySQL**, and **TailwindCSS**.
+  </td>
+  <td>
+   ## 📈 GitHub Stats
+   ![AdiSalL's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+  </td>
+ </tr>
+ 
+</table>
 ## 🌱 Currently Learning
 <a href="https://en.wikipedia.org/wiki/Coding"><b>coding</b></a>
 
@@ -47,10 +56,6 @@ HTML                               49 hrs 21 mins  █▒░░░░░░░�
  </tr>
 
 </table>
-
-## 📈 GitHub Stats
-![AdiSalL's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 
 
 
