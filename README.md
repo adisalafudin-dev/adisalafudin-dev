@@ -30,9 +30,6 @@ I'm always eager to learn and grow as a developer.
 Right now, I'm diving deeper into <a href="https://en.wikipedia.org/wiki/Coding"><b>coding</b></a>, exploring new frameworks, and improving my problem-solving skills.
 
 
-
-
-
 <table border="0">
  <tr>
   <td>
@@ -65,6 +62,7 @@ HTML                               49 hrs 21 mins  █▒░░░░░░░�
  </tr>
 
 </table>
+---
 
  ## 🔗 Connect With Me
 
