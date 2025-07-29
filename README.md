@@ -1,28 +1,29 @@
-# About Me
 
-🚀**Hi, I’m Adi! Developer & Student**
+## 🚀 Hi, I’m Adi! 
+
 <table>
  <tr>
   <td>
-  I’m a Web Developer Student with a passion for building cool and functional web apps.  
-  My top skills include **React** and **Laravel**, and I’m also comfortable working with technologies like **PHP**, **MySQL**, and **TailwindCSS**.
+    I’m a Web Developer Student with a passion for building cool and functional web apps.<br>
+    My top skills include <b>React</b> and <b>Laravel</b>, and I’m also comfortable working with technologies like <b>PHP</b>, <b>MySQL</b>, and <b>TailwindCSS</b>.
   </td>
-  <td>
-   ## 📈 GitHub Stats
-   ![AdiSalL's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+  <td align="center">
+    <b>📈 GitHub Stats</b><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="AdiSalL's GitHub stats" width="600">
   </td>
  </tr>
- 
 </table>
+
+---
+
 ## 🌱 Currently Learning
-<a href="https://en.wikipedia.org/wiki/Coding"><b>coding</b></a>
 
-### 🔗 Socials
+I'm always eager to learn and grow as a developer.  
+Right now, I'm diving deeper into <a href="https://en.wikipedia.org/wiki/Coding"><b>coding</b></a>, exploring new frameworks, and improving my problem-solving skills.
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&style=flat-square)](https://adisalafudin-com.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-@adi.salafudin-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/adi.salafudin)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://youtube.com/@adisalafudin)
-[![X](https://img.shields.io/badge/X-@telotraash-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/telotraash)
+
+
+
 
 <table border="0">
  <tr>
@@ -57,6 +58,21 @@ HTML                               49 hrs 21 mins  █▒░░░░░░░�
 
 </table>
 
+ ## 🔗 Connect With Me
 
+<p>
+  <a href="https://adisalafudin-com.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&style=for-the-badge" alt="Website" />
+  </a>
+  <a href="https://instagram.com/adi.salafudin" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@adi.salafudin-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@adisalafudin" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
+  </a>
+  <a href="https://x.com/telotraash" target="_blank">
+    <img src="https://img.shields.io/badge/X-@telotraash-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
+  </a>
+</p>
 
 
