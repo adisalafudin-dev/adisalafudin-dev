@@ -8,11 +8,11 @@
       <p>
         I’m a Web Developer Student with a passion for building cool and functional web apps.<br><br>
         <b>Top Skills:</b><br>
-        <b>React</b><br>
-        <b>Laravel</b><br>
-        PHP<br>
-        MySQL<br>
-        TailwindCSS<br>
+        <b>React</b>,
+        <b>Laravel</b>,        
+        PHP,
+        MySQL,
+        TailwindCSS,
       </p>
     </td>
     <td align="center" valign="middle" width="45%">
