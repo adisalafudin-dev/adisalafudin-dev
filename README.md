@@ -4,8 +4,13 @@
 <table>
  <tr>
   <td>
+  </td>
+  <td>
     I’m a Web Developer Student with a passion for building cool and functional web apps.<br>
     My top skills include <b>React</b> and <b>Laravel</b>, and I’m also comfortable working with technologies like <b>PHP</b>, <b>MySQL</b>, and <b>TailwindCSS</b>.
+  </td>
+  
+  <td>
   </td>
   <td align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="AdiSalL's GitHub stats" width="600">
