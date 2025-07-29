@@ -7,14 +7,12 @@
     <td valign="top" width="55%">
       <p>
         I’m a Web Developer Student with a passion for building cool and functional web apps.<br><br>
-        <b>Top Skills:</b>
-        <ul>
-          <li><b>React</b></li>
-          <li><b>Laravel</b></li>
-          <li>PHP</li>
-          <li>MySQL</li>
-          <li>TailwindCSS</li>
-        </ul>
+        <b>Top Skills:</b><br>
+        <b>React</b><br>
+        <b>Laravel</b><br>
+        PHP<br>
+        MySQL<br>
+        TailwindCSS<br>
       </p>
     </td>
     <td align="center" valign="middle" width="45%">
