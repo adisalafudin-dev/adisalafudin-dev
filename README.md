@@ -15,11 +15,6 @@ Always exploring new tools and best practices to level up my development skills.
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://youtube.com/@adisalafudin)
 [![X](https://img.shields.io/badge/X-@telotraash-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/telotraash)
 
-
-## 📈 GitHub Stats
-![AdiSalL's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-
 <table border="0">
  <tr>
   <td>
@@ -52,6 +47,9 @@ HTML                               49 hrs 21 mins  █▒░░░░░░░�
  </tr>
 
 </table>
+
+## 📈 GitHub Stats
+![AdiSalL's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 
 
