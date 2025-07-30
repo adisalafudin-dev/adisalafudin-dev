@@ -6,7 +6,8 @@
   <tr>
     <td valign="top" width="55%">
       <p>
-        I’m a Web Developer Student with a passion for building cool and functional web apps.<br><br>
+        <br>
+        I’m a Web Developer Student with a passion for building cool and functional web apps.<br>
         <b>Top Skills:</b><br>
         <b>React</b>,
         <b>Laravel</b>,        
