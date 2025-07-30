@@ -27,7 +27,7 @@
 ## 🌱 Currently Learning
 
 I'm always eager to learn and grow as a developer.  
-Right now, I'm diving deeper into <a href="https://en.wikipedia.org/wiki/Coding"><b>coding</b></a>, exploring new frameworks, and improving my problem-solving skills.
+Right now, I'm diving deeper into <a href="https://en.wikipedia.org/wiki/Coding"><code><b>coding</b></code></a>, exploring new frameworks, and improving my problem-solving skills.
 
 
 <table border="0">
