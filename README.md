@@ -39,15 +39,15 @@ Right now, I'm diving deeper into <a href="https://en.wikipedia.org/wiki/Coding"
  <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 07 August 2025
+From: 16 September 2023 - To: 08 August 2025
 
-Total Time: 1,036 hrs 36 mins
+Total Time: 1,038 hrs 21 mins
 
-PHP                                415 hrs 25 mins ██████████░░░░░░░░░░░░░░░   39.65 %
-JavaScript                         181 hrs 27 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-C++                                129 hrs 14 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-C#                                 94 hrs 32 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-HTML                               49 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+PHP                                415 hrs 25 mins ██████████░░░░░░░░░░░░░░░   39.58 %
+JavaScript                         181 hrs 27 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+C++                                129 hrs 14 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+C#                                 95 hrs 7 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+HTML                               49 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
