@@ -1,11 +1,7 @@
 
 ## 🚀 Hi, I’m Adi! 
 
-
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <p>
+   <p>
         <br>
         I’m a Web Developer Student with a passion for building cool and functional web apps.<br>
         <b>Top Skills:</b><br>
@@ -14,15 +10,7 @@
         PHP,
         MySQL,
         TailwindCSS,
-      </p>
-    </td>
-    <td align="center" valign="middle" width="45%">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=AdiSalL&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="AdiSalL's GitHub stats" width="375">
-    </td>
-  </tr>
-</table>
-
+     </p>
 
 
 ## 🌱 Currently Learning
