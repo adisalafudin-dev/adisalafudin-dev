@@ -21,5 +21,5 @@ HTML                               53 hrs 16 mins  █░░░░░░░░�
 
 <p>
   <img src="whiplash.gif" alt="Whiplash GIF" width="550" height="500"/>
-  <img src="kumiko_run.gif" alt="Kumiko Run GIF" width="410"/>
+  <img src="kumiko_run.gif" alt="Kumiko Run GIF" width="400"/>
 </p>
