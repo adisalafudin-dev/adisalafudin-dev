@@ -18,8 +18,3 @@ HTML                               53 hrs 16 mins  █░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<p>
-  <img src="whiplash.gif" alt="Whiplash GIF" width="420" height="500"/>
-  <img src="kumiko_run.gif" alt="Kumiko Run GIF" width="400"/>
-</p>
